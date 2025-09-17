@@ -1,3 +1,167 @@
+CREATE DATABASE GestionHoteles;
+GO
+USE GestionHoteles;
+GO
+
+-- =====================
+-- Tablas base
+-- =====================
+
+CREATE TABLE TelefonosClientes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Telefono NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Clientes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    FechaNacimiento DATETIME NOT NULL,
+    Documento INT NOT NULL,
+    IdTelefonoCliente INT NOT NULL,
+    CONSTRAINT FK_Clientes_TelefonosClientes FOREIGN KEY (IdTelefonoCliente)
+        REFERENCES TelefonosClientes(Id)
+);
+
+CREATE TABLE TelefonosHoteles (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Telefono NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Hoteles (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Direccion NVARCHAR(150) NOT NULL,
+    Calificacion INT NOT NULL,
+    IdTelefonoHotel INT NOT NULL,
+    CONSTRAINT FK_Hoteles_TelefonosHoteles FOREIGN KEY (IdTelefonoHotel)
+        REFERENCES TelefonosHoteles(Id)
+);
+
+CREATE TABLE TelefonosAcompañantes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Telefono NVARCHAR(50) NOT NULL
+);
+
+CREATE TABLE Acompañantes (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL,
+    FechaNacimiento DATETIME NOT NULL,
+    Documento INT NOT NULL,
+    IdTelefonoAcompañante INT NOT NULL,
+    CONSTRAINT FK_Acompañantes_TelefonosAcompañantes FOREIGN KEY (IdTelefonoAcompañante)
+        REFERENCES TelefonosAcompañantes(Id)
+);
+
+-- =====================
+-- Reservas y Facturación
+-- =====================
+
+CREATE TABLE Reservas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    CheckIn DATETIME NOT NULL,
+    CheckOut DATETIME NOT NULL,
+    IdCliente INT NOT NULL,
+    CONSTRAINT FK_Reservas_Clientes FOREIGN KEY (IdCliente)
+        REFERENCES Clientes(Id)
+);
+
+CREATE TABLE EstadosHabitaciones (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Descripcion NVARCHAR(100) NOT NULL,
+	Codigo NVARCHAR(20)
+);
+
+CREATE TABLE TiposHabitaciones (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Descripcion NVARCHAR(100) NOT NULL,
+	Codigo NVARCHAR(20)
+);
+
+CREATE TABLE Habitaciones (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Numero INT NOT NULL,
+    Piso INT NOT NULL,
+    PrecioDia DECIMAL(10,2) NOT NULL,
+    IdEstadoHabitacion INT NOT NULL,
+    IdTipoHabitacion INT NOT NULL,
+    IdHotel INT NOT NULL,
+    Capacidad INT, 
+    CONSTRAINT FK_Habitaciones_Hoteles FOREIGN KEY (IdHotel)
+        REFERENCES Hoteles(Id), 
+    CONSTRAINT FK_Habitaciones_EstadosHabitaciones FOREIGN KEY (IdEstadoHabitacion)
+        REFERENCES EstadosHabitaciones(Id),
+    CONSTRAINT FK_Habitaciones_TiposHabitaciones FOREIGN KEY (IdTipoHabitacion)
+        REFERENCES TiposHabitaciones(Id)
+);
+
+CREATE TABLE Fases (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Descripcion NVARCHAR(100) NOT NULL,
+	Codigo NVARCHAR(20)
+);
+
+CREATE TABLE TiposMascotas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Raza NVARCHAR(100) NOT NULL
+);
+
+CREATE TABLE Mascotas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    FechaNacimiento DATETIME NOT NULL,
+    IdTipoMascota INT NOT NULL,
+    CONSTRAINT FK_Mascotas_TiposMascotas FOREIGN KEY (IdTipoMascota)
+        REFERENCES TiposMascotas(Id)
+);
+
+CREATE TABLE ReservasHabitaciones (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Fecha DATETIME NOT NULL,
+    Codigo INT NOT NULL,
+    IdHabitacion INT NOT NULL,
+    IdReserva INT NOT NULL,
+    IdAcompañante INT NOT NULL,
+    IdMascota INT NOT NULL,
+    IdFase INT NOT NULL,
+    CONSTRAINT FK_ReservasHabitaciones_Habitaciones FOREIGN KEY (IdHabitacion)
+        REFERENCES Habitaciones(Id),
+    CONSTRAINT FK_ReservasHabitaciones_Reservas FOREIGN KEY (IdReserva)
+        REFERENCES Reservas(Id),
+    CONSTRAINT FK_ReservasHabitaciones_Acompañantes FOREIGN KEY (IdAcompañante)
+        REFERENCES Acompañantes(Id),
+    CONSTRAINT FK_ReservasHabitaciones_Mascotas FOREIGN KEY (IdMascota)
+        REFERENCES Mascotas(Id),
+    CONSTRAINT FK_ReservasHabitaciones_Fases FOREIGN KEY (IdFase)
+        REFERENCES Fases(Id)
+);
+
+CREATE TABLE EstadosFacturas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Descripcion NVARCHAR(100) NOT NULL,
+	Codigo NVARCHAR(20)
+);
+
+CREATE TABLE Facturas (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    FechaPago DATETIME NOT NULL,
+    Codigo INT NOT NULL,
+    Total DECIMAL(12,2) NOT NULL,
+    SubTotal DECIMAL(12,2) NOT NULL,
+    IdEstadoFactura INT NOT NULL,
+    IdReservaHabitacion INT NOT NULL,
+    CONSTRAINT FK_Facturas_EstadosFacturas FOREIGN KEY (IdEstadoFactura)
+        REFERENCES EstadosFacturas(Id),
+    CONSTRAINT FK_Facturas_ReservasHabitaciones FOREIGN KEY (IdReservaHabitacion)
+        REFERENCES ReservasHabitaciones(Id)
+);
+
+-- =====================
+-- Inserción de datos
+-- =====================
+
 INSERT INTO TelefonosClientes (Telefono) VALUES 
 ('123456789'),
 ('987654321'),
@@ -124,3 +288,4 @@ INSERT INTO Facturas (FechaPago, Codigo, Total, SubTotal, IdEstadoFactura, IdRes
 ('2024-01-10', 1003, 750.00, 700.00, 3, 3),
 ('2024-02-25', 1004, 900.00, 850.00, 4, 4),
 ('2024-03-05', 1005, 200.00, 150.00, 5, 5);
+
