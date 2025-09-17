@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj": {}
+    "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj": {}
   },
   "projects": {
-    "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj": {
+    "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj",
         "projectName": "lib_aplicaciones",
-        "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj",
+        "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\lib_aplicaciones.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_aplicaciones\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj"
               },
-              "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj": {
-                "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj"
+              "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj": {
+                "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
+    "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
         "projectName": "lib_dominio",
-        "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
+        "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -149,14 +149,14 @@
         }
       }
     },
-    "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj": {
+    "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj",
+        "projectUniqueName": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj",
         "projectName": "lib_repositorios",
-        "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj",
+        "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\lib_repositorios.csproj",
         "packagesPath": "C:\\Users\\salak401\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_repositorios\\obj\\",
+        "outputPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -178,8 +178,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
-                "projectPath": "C:\\Users\\salak401\\Desktop\\GestionHoteles\\GestionHoteles\\lib_dominio\\lib_dominio.csproj"
+              "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
+                "projectPath": "C:\\Users\\salak401\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj"
               }
             }
           }
