@@ -135,6 +135,7 @@ namespace ut_presentacion.Nucleo
         {
             var entidad = new EstadosFacturas();
             entidad.Descripcion = "Prueba";
+            entidad.Codigo = "Prueba";
 
             return entidad;
         }
@@ -143,6 +144,7 @@ namespace ut_presentacion.Nucleo
         {
             var entidad = new Fases();
             entidad.Descripcion = "Prueba";
+            entidad.Codigo = "Prueba";
 
             return entidad;
         }
@@ -152,6 +154,7 @@ namespace ut_presentacion.Nucleo
             var entidad = new EstadosHabitaciones();
 
             entidad.Descripcion = "prueba";
+            entidad.Codigo = "Prueba";
 
             return entidad;
         }
@@ -161,6 +164,7 @@ namespace ut_presentacion.Nucleo
             var entidad = new TiposHabitaciones();
 
             entidad.Descripcion = "prueba";
+            entidad.Codigo = "Prueba";
 
             return entidad;
         }
