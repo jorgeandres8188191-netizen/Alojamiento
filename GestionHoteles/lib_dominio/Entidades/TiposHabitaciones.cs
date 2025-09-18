@@ -13,7 +13,6 @@ namespace lib_dominio.Entidades
         [Key] public int Id { get; set; }
         public string? Descripcion { get; set; }
         public string? Codigo { get; set; }
-
         [NotMapped] public ICollection<Habitaciones>? Habitaciones { get; set; }
     }
 }

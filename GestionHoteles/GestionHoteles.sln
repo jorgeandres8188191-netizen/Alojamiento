@@ -8,9 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Servicios", "2. Servicios", "{D2CCAA17-FEA6-4297-844A-8328553041CE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Nucleo", "3. Nucleo", "{EB4D6534-E471-4646-9FC1-EA18EDA35194}"
-	ProjectSection(SolutionItems) = preProject
-		lib_repositorios\script.sql = lib_repositorios\script.sql
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Pruebas unitarias", "4. Pruebas unitarias", "{083CE12E-9D8B-4D7D-8617-990ED97DBA6E}"
 EndProject

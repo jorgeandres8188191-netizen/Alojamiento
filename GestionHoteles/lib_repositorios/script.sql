@@ -288,4 +288,3 @@ INSERT INTO Facturas (FechaPago, Codigo, Total, SubTotal, IdEstadoFactura, IdRes
 ('2024-01-10', 1003, 750.00, 700.00, 3, 3),
 ('2024-02-25', 1004, 900.00, 850.00, 4, 4),
 ('2024-03-05', 1005, 200.00, 150.00, 5, 5);
-

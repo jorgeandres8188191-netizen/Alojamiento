@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\",
+  "WorkspaceRootPath": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\estadosfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\tiposhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\tiposhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\fases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\fases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\estadoshabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estadoshabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\estadosfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estadosfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +51,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EstadosFacturas.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "TiposHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\TiposHabitaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\TiposHabitaciones.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\TiposHabitaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\TiposHabitaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T21:01:56.979Z",
+              "WhenOpened": "2025-09-18T13:45:54.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fases.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\Fases.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Fases.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\Fases.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Fases.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:45:31.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstadosHabitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosHabitaciones.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\EstadosHabitaciones.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosHabitaciones.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\EstadosHabitaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:45:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadosFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\EstadosFacturas.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\EstadosFacturas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:44:56.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json",
+              "RelativeDocumentMoniker": "secrets.json",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json",
+              "RelativeToolTip": "secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T13:33:29.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "script.sql ",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
+              "RelativeToolTip": "lib_repositorios\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-18T13:32:21.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:31:51.971Z",
               "EditorCaption": ""
             }
           ]
