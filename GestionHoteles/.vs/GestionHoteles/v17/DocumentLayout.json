@@ -3,44 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\mascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\mascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\ut_presentacion\\aplicaciones\\facturasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\aplicaciones\\facturasprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\acompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\acompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\tiposhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\tiposhabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\fases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\fases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\tiposmascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\tiposmascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\estadoshabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estadoshabitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\entidades\\estadosfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\estadosfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\ut_presentacion\\aplicaciones\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\aplicaciones\\habitacionesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\fasesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\fasesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|solutionrelative:secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\salak301\\desktop\\alojamiento\\gestionhoteles\\ut_presentacion\\repositorios\\clientesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC557867-D3A7-4ECD-9F1D-A94355F15DD2}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorios\\clientesprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,117 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EntidadesNucleo.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "ViewState": "AQIAAI8AAAAAAAAAAAAUwKYAAAAmAAAA",
+              "Title": "MascotasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:54:50.212Z",
+              "WhenOpened": "2025-09-18T14:41:03.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FacturasPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Aplicaciones\\FacturasPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Aplicaciones\\FacturasPrueba.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Aplicaciones\\FacturasPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Aplicaciones\\FacturasPrueba.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Acompa\u00F1antesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvygAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:52:15.013Z",
+              "WhenOpened": "2025-09-18T14:40:48.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TiposHabitaciones.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\TiposHabitaciones.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\TiposHabitaciones.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\TiposHabitaciones.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\TiposHabitaciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "ClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:45:54.375Z",
+              "WhenOpened": "2025-09-18T14:36:07.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Fases.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\Fases.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Fases.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\Fases.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Fases.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Title": "TiposMascotasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:45:31.965Z",
+              "WhenOpened": "2025-09-18T14:35:46.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EstadosHabitaciones.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosHabitaciones.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\EstadosHabitaciones.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosHabitaciones.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\EstadosHabitaciones.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Title": "ReservasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:45:19.133Z",
+              "WhenOpened": "2025-09-18T14:20:44.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EstadosFacturas.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\EstadosFacturas.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Title": "HabitacionesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Aplicaciones\\HabitacionesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Aplicaciones\\HabitacionesPrueba.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Aplicaciones\\HabitacionesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Aplicaciones\\HabitacionesPrueba.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:44:56.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "secrets.json",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json",
-              "RelativeDocumentMoniker": "secrets.json",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\secrets.json",
-              "RelativeToolTip": "secrets.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-18T13:33:29.998Z",
+              "WhenOpened": "2025-09-18T14:18:52.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "script.sql ",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
-              "RelativeToolTip": "lib_repositorios\\script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-18T13:32:21.713Z",
+              "Title": "FasesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:09:02.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\lib_repositorios\\Implementaciones\\Conexion.cs",
+              "RelativeToolTip": "lib_repositorios\\Implementaciones\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:31:51.971Z",
+              "WhenOpened": "2025-09-18T14:08:53.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Repositorios\\ClientesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorios\\ClientesPrueba.cs",
+              "ToolTip": "C:\\Users\\salak301\\Desktop\\Alojamiento\\GestionHoteles\\ut_presentacion\\Repositorios\\ClientesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorios\\ClientesPrueba.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T14:06:53.878Z",
               "EditorCaption": ""
             }
           ]

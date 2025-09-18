@@ -31,6 +31,8 @@ namespace lib_aplicaciones.Implementaciones
                 throw new Exception("lbFaltaInformacion");
             if (entidad.Id != 0)
                 throw new Exception("lbYaSeGuardo");
+            if (entidad.FechaNacimiento > DateTime.Now)
+                throw new Exception("IbFechaInvalida");
             entidad!.Nombre = "Prueba";
             this.IConexion!.Mascotas!.Add(entidad);
             this.IConexion.SaveChanges();
