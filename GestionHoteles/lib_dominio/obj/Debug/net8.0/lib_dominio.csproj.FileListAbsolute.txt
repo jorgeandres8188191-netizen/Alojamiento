@@ -76,3 +76,16 @@ C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_dominio\obj\Debug\
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\bin\Debug\net8.0\lib_dominio.deps.json
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\bin\Debug\net8.0\lib_dominio.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\bin\Debug\net8.0\lib_dominio.pdb
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.AssemblyInfo.cs
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.sourcelink.json
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\refint\lib_dominio.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\lib_dominio.pdb
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_dominio\obj\Debug\net8.0\ref\lib_dominio.dll

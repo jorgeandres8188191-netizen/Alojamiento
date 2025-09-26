@@ -9,7 +9,19 @@ namespace asp_servicios.Controllers
 {
     public class TokenController : ControllerBase
     {
-        private Dictionary<string, object> ObtenerDatos() { var respuesta = new Dictionary<string, object>(); try { var datos = new StreamReader(Request.Body).ReadToEnd().ToString(); if (string.IsNullOrEmpty(datos)) datos = "{}"; return JsonConversor.ConvertirAObjeto(datos); } catch (Exception ex) { respuesta["Error"] = ex.Message.ToString(); return respuesta; } }
+        private Dictionary<string, object> ObtenerDatos() 
+        { 
+            var respuesta = new Dictionary<string, object>(); 
+            try 
+            { 
+                var datos = new StreamReader(Request.Body).ReadToEnd().ToString(); 
+                if (string.IsNullOrEmpty(datos)) datos = "{}"; return JsonConversor.ConvertirAObjeto(datos); 
+            } 
+            catch (Exception ex) { 
+                respuesta["Error"] = ex.Message.ToString(); 
+                return respuesta;
+            } 
+        }
         //[HttpGet] //[AllowAnonymous] //[Route("Token/Fecha")] //public string Fecha() //{ // var respuesta = new Dictionary<string, object>(); // try // { // respuesta["Token"] = DateTime.Now; // return JsonConversor.ConvertirAString(respuesta); // } // catch (Exception ex) // { // respuesta["Error"] = ex.ToString(); // return JsonConversor.ConvertirAString(respuesta); // } //}
         [HttpPost]
         [AllowAnonymous]
@@ -23,7 +35,8 @@ namespace asp_servicios.Controllers
                     return JsonConversor.ConvertirAString(respuesta); 
                 }
                 var tokenHandler = new JwtSecurityTokenHandler(); 
-                var tokenDescriptor = new SecurityTokenDescriptor { Subject = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, datos["Usuario"].ToString()!) }), Expires = DateTime.UtcNow.AddHours(1), SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(DatosGenerales.clave)), SecurityAlgorithms.HmacSha256Signature) }; 
+                var tokenDescriptor = new SecurityTokenDescriptor { 
+                    Subject = new ClaimsIdentity(new Claim[] { new Claim(ClaimTypes.Name, datos["Usuario"].ToString()!) }), Expires = DateTime.UtcNow.AddHours(1), SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(DatosGenerales.clave)), SecurityAlgorithms.HmacSha256Signature) }; 
                 var token = tokenHandler.CreateToken(tokenDescriptor);
                 respuesta["Token"] = tokenHandler.WriteToken(token); 
                 return JsonConversor.ConvertirAString(respuesta);

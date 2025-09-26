@@ -91,3 +91,14 @@ C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\asp_servicios\obj\Debu
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.pdb
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.genruntimeconfig.cache
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\asp_servicios\obj\Debug\net8.0\ref\asp_servicios.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.AssemblyInfo.cs
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.sourcelink.json
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\refint\asp_servicios.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\asp_servicios\obj\Debug\net8.0\asp_servicios.pdb

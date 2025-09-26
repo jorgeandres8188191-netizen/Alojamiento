@@ -70,3 +70,12 @@ C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_aplicaciones\obj\D
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\refint\lib_aplicaciones.dll
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.pdb
 C:\Users\salak401\Source\Repos\Alojamiento\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\ref\lib_aplicaciones.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.AssemblyInfo.cs
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.sourcelink.json
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\refint\lib_aplicaciones.dll
+C:\Users\USER\Desktop\Santiago\Programación\Proyectos\TRABAJOS\GestionHoteles\lib_aplicaciones\obj\Debug\net8.0\lib_aplicaciones.pdb
