@@ -1,90 +1,306 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\comunicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\tiposmascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_presentacion\\asp_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\asp_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\lib_presentaciones.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\iclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\acompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\acompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\clientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\clientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\estadosfacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\estadosfacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\estadoshabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\estadoshabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\facturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\facturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\fasespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\fasespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\habitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\habitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\hotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\hotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\mascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\mascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\reservashabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\reservashabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\reservaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\reservaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\telefonosacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\telefonosacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\telefonosclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\telefonosclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\telefonoshotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\telefonoshotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\tiposhabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\tiposhabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\implementaciones\\tiposmascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\implementaciones\\tiposmascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\itiposmascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\itiposmascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\itiposhabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\itiposhabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\itelefonoshotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\itelefonoshotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\itelefonosclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\itelefonosclientespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\itelefonosacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\itelefonosacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\iacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iacompa\u00F1antespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ireservaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ireservaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ireservashabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ireservashabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\imascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\imascotaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ihotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ihotelespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ihabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ihabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ifasespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ifasespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\ifacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\ifacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\iestadoshabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iestadoshabitacionespresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_presentaciones\\interfaces\\iestadosfacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06EE63AA-A31B-4ECA-89EE-B5C6918E9C86}|lib_presentaciones\\lib_presentaciones.csproj|solutionrelative:lib_presentaciones\\interfaces\\iestadosfacturaspresentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\tiposmascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\tiposmascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\tiposhabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\telefonoshotelesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\telefonoshotelesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\telefonosclientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\telefonosclientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\telefonosacompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\telefonosacompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\reservashabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\reservashabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\reservasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\mascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\mascotasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\hotelesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\hotelesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\habitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\habitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\fasesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\fasesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\facturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\estadoshabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\estadoshabitacionesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\estadosfacturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\estadosfacturasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\implementaciones\\acompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\acompa\u00F1antesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_aplicaciones\\interfaces\\iacompa\u00F1anatesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B27AEA9-3336-47D9-B212-B1AEB659275E}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iacompa\u00F1anatesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A866898F-ABCC-4CD6-8036-54CB8A769077}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\tiposmascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tiposmascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\tiposhabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\tiposhabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tiposhabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\telefonoshotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\telefonoshotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\telefonoshotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\telefonosclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\telefonosclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\telefonosclientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\telefonosacompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\telefonosacompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\telefonosacompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\reservashabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\reservashabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\reservashabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\acompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\acompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\acompa\u00F1antescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\reservascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\mascotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\hotelescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\habitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\fasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\fasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\fasescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\estadoshabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\estadoshabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\estadoshabitacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\estadosfacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\estadosfacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\estadosfacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\asp_servicios\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_servicios\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37676BF0-8B69-448D-8A51-2BEF02DDF3AE}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\salak401\\desktop\\a\\gestionhoteles\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{2A3C9A6E-CEBD-4F2C-811A-934B80B68F9F}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,266 +310,964 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:30:13.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "script.sql ",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\lib_repositorios\\script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\lib_repositorios\\script.sql",
-              "RelativeToolTip": "lib_repositorios\\script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-09-30T13:28:53.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Program.cs",
+              "RelativeToolTip": "asp_presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:47:01.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_presentacion\\Startup.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Startup.cs",
+              "RelativeToolTip": "asp_presentacion\\Startup.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:45:33.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "asp_presentacion",
+              "DocumentMoniker": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\asp_presentacion.csproj",
+              "RelativeDocumentMoniker": "asp_presentacion\\asp_presentacion.csproj",
+              "ToolTip": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\asp_presentacion.csproj",
+              "RelativeToolTip": "asp_presentacion\\asp_presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T15:44:07.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Acompa\u00F1antesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:07:38.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:24:54.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Startup.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Startup.cs",
               "RelativeToolTip": "asp_servicios\\Startup.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwBIAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T13:24:24.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Program.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Program.cs",
               "RelativeToolTip": "asp_servicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T13:24:20.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TiposMascotasController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TiposMascotasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposMascotasController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TiposMascotasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TiposMascotasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:23:24.138Z",
+              "WhenOpened": "2025-10-23T14:46:49.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TiposHabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TiposHabitacionesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposHabitacionesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TiposHabitacionesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TiposHabitacionesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Comunicaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Comunicaciones.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Comunicaciones.cs",
+              "RelativeToolTip": "lib_presentaciones\\Comunicaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:23:19.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TelefonosHotelesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosHotelesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosHotelesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosHotelesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosHotelesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:23:13.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TelefonosClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosClientesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosClientesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosClientesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosClientesController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:23:07.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TelefonosAcompa\u00F1antesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:23:01.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReservasHabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:22:48.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ReservasController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ReservasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ReservasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\ReservasController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:22:22.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MascotasController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\MascotasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\MascotasController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\MascotasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\MascotasController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:22:14.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HotelesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\HotelesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HotelesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\HotelesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\HotelesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAIA1wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:22:03.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\HabitacionesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HabitacionesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\HabitacionesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\HabitacionesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:21:55.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FasesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\FasesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FasesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\FasesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\FasesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:21:47.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FacturasController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\FacturasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FacturasController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\FacturasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\FacturasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:21:32.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EstadosHabitacionesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:21:14.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "EstadosFacturasController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\EstadosFacturasController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosFacturasController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\EstadosFacturasController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\EstadosFacturasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:20:58.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:20:35.612Z",
+              "WhenOpened": "2025-10-23T15:03:23.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ClientesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:10:25.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EstadosFacturasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:11:05.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstadosHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:11:39.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lib_presentaciones",
+              "DocumentMoniker": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\lib_presentaciones.csproj",
+              "RelativeDocumentMoniker": "lib_presentaciones\\lib_presentaciones.csproj",
+              "ToolTip": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\lib_presentaciones.csproj",
+              "RelativeToolTip": "lib_presentaciones\\lib_presentaciones.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T15:00:27.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FacturasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:12:19.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FasesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:12:49.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:13:19.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HotelesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:15:40.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MascotasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:16:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservasHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:17:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:16:50.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TelefonosAcompa\u00F1antesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:19:23.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TelefonosClientesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:19:55.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TelefonosHotelesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:20:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TiposHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:21:19.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TiposMascotasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:21:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ITiposMascotasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:29:21.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITiposHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:29:02.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ITelefonosHotelesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:28:48.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITelefonosClientesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:28:38.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITelefonosAcompa\u00F1antesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:28:27.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAcompa\u00F1antesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:05:36.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IReservasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:27:50.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IReservasHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:27:36.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMascotasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:27:11.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IHotelesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:26:39.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:26:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IFasesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:26:07.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IFacturasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:25:54.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IEstadosHabitacionesPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:25:36.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IEstadosFacturasPresentacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
+              "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
+              "RelativeToolTip": "lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:25:15.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TiposMascotasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:22.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TelefonosHotelesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:22:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TelefonosClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TelefonosAcompa\u00F1antesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReservasHabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:11.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MascotasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:06.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TiposHabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:06:49.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "HotelesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:23:04.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EstadosHabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:22:52.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EstadosFacturasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:22:50.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FasesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:22:24.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HabitacionesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:22:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ReservasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:06:42.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FacturasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:06:38.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Acompa\u00F1antesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:06:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:06:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IAcompa\u00F1anatesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T15:08:48.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:30:13.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "script.sql",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
+              "RelativeToolTip": "lib_repositorios\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-30T13:28:53.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "TiposMascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposMascotasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposMascotasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposMascotasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TiposMascotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:23:24.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TiposHabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposHabitacionesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposHabitacionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposHabitacionesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TiposHabitacionesController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:23:19.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TelefonosHotelesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosHotelesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosHotelesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosHotelesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosHotelesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:23:13.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "TelefonosClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosClientesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosClientesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosClientesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosClientesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:23:07.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TelefonosAcompa\u00F1antesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:23:01.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ReservasHabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:22:48.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:22:22.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "MascotasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\MascotasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\MascotasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\MascotasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\MascotasController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAewB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:22:14.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HotelesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HotelesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HotelesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HotelesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\HotelesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:22:03.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:21:55.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "FasesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FasesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FasesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FasesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\FasesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:21:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:21:32.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EstadosHabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:21:14.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "EstadosFacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosFacturasController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosFacturasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosFacturasController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\EstadosFacturasController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:20:58.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T13:20:35.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
               "Title": "Acompa\u00F1antesController.cs",
-              "DocumentMoniker": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
-              "ToolTip": "C:\\Users\\salak401\\Desktop\\a\\GestionHoteles\\asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
               "RelativeToolTip": "asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:17:59.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:17:59.161Z"
             }
           ]
         }
