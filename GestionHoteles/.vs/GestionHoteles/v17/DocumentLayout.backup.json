@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\README.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{95B5BABD-A566-4D6D-9545-36CD02772C50}|Solution items{95B5BABD-A566-4D6D-9545-36CD02772C50}|solutionrelative:README.md.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\user\\source\\repos\\alojamiento\\gestionhoteles\\asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFCB9477-5417-42AE-A662-E8BE4AD9A01D}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -310,11 +314,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "README.md.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\README.md.txt",
+              "RelativeDocumentMoniker": "README.md.txt",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\README.md.txt",
+              "RelativeToolTip": "README.md.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-23T15:51:22.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Program.cs",
               "RelativeDocumentMoniker": "asp_presentacion\\Program.cs",
@@ -327,20 +344,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Startup.cs",
               "RelativeDocumentMoniker": "asp_presentacion\\Startup.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\Startup.cs",
               "RelativeToolTip": "asp_presentacion\\Startup.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T15:45:33.616Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "asp_presentacion",
               "DocumentMoniker": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\asp_presentacion.csproj",
               "RelativeDocumentMoniker": "asp_presentacion\\asp_presentacion.csproj",
@@ -353,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Acompa\u00F1antesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\Acompa\u00F1antesPresentacion.cs",
@@ -366,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IClientesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IClientesPresentacion.cs",
@@ -379,7 +396,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Startup.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
@@ -392,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Program.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
@@ -405,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TokenController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TokenController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
@@ -418,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Comunicaciones.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Comunicaciones.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Comunicaciones.cs",
@@ -431,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ClientesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ClientesPresentacion.cs",
@@ -444,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "EstadosFacturasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\EstadosFacturasPresentacion.cs",
@@ -457,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EstadosHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\EstadosHabitacionesPresentacion.cs",
@@ -470,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "lib_presentaciones",
               "DocumentMoniker": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\lib_presentaciones.csproj",
               "RelativeDocumentMoniker": "lib_presentaciones\\lib_presentaciones.csproj",
@@ -483,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "FacturasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\FacturasPresentacion.cs",
@@ -496,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FasesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\FasesPresentacion.cs",
@@ -509,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\HabitacionesPresentacion.cs",
@@ -522,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "HotelesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\HotelesPresentacion.cs",
@@ -535,7 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MascotasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\MascotasPresentacion.cs",
@@ -548,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ReservasHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ReservasHabitacionesPresentacion.cs",
@@ -561,7 +578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ReservasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\ReservasPresentacion.cs",
@@ -574,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "TelefonosAcompa\u00F1antesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosAcompa\u00F1antesPresentacion.cs",
@@ -587,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "TelefonosClientesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosClientesPresentacion.cs",
@@ -600,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "TelefonosHotelesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TelefonosHotelesPresentacion.cs",
@@ -613,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "TiposHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TiposHabitacionesPresentacion.cs",
@@ -626,7 +643,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "TiposMascotasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Implementaciones\\TiposMascotasPresentacion.cs",
@@ -639,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ITiposMascotasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITiposMascotasPresentacion.cs",
@@ -652,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ITiposHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITiposHabitacionesPresentacion.cs",
@@ -665,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ITelefonosHotelesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosHotelesPresentacion.cs",
@@ -678,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ITelefonosClientesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosClientesPresentacion.cs",
@@ -691,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ITelefonosAcompa\u00F1antesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\ITelefonosAcompa\u00F1antesPresentacion.cs",
@@ -704,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IAcompa\u00F1antesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IAcompa\u00F1antesPresentacion.cs",
@@ -717,7 +734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IReservasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IReservasPresentacion.cs",
@@ -730,7 +747,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IReservasHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IReservasHabitacionesPresentacion.cs",
@@ -743,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "IMascotasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IMascotasPresentacion.cs",
@@ -756,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "IHotelesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IHotelesPresentacion.cs",
@@ -769,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IHabitacionesPresentacion.cs",
@@ -782,7 +799,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IFasesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IFasesPresentacion.cs",
@@ -795,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "IFacturasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IFacturasPresentacion.cs",
@@ -808,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "IEstadosHabitacionesPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IEstadosHabitacionesPresentacion.cs",
@@ -821,7 +838,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "IEstadosFacturasPresentacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
               "RelativeDocumentMoniker": "lib_presentaciones\\Interfaces\\IEstadosFacturasPresentacion.cs",
@@ -834,7 +851,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "TiposMascotasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TiposMascotasAplicacion.cs",
@@ -847,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "TelefonosHotelesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosHotelesAplicacion.cs",
@@ -860,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "TelefonosClientesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosClientesAplicacion.cs",
@@ -873,7 +890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "TelefonosAcompa\u00F1antesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TelefonosAcompa\u00F1antesAplicacion.cs",
@@ -886,7 +903,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "ReservasHabitacionesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ReservasHabitacionesAplicacion.cs",
@@ -899,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "MascotasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\MascotasAplicacion.cs",
@@ -912,7 +929,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "TiposHabitacionesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\TiposHabitacionesAplicacion.cs",
@@ -925,7 +942,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "HotelesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\HotelesAplicacion.cs",
@@ -938,7 +955,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "EstadosHabitacionesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EstadosHabitacionesAplicacion.cs",
@@ -951,7 +968,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "EstadosFacturasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EstadosFacturasAplicacion.cs",
@@ -964,7 +981,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "FasesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FasesAplicacion.cs",
@@ -977,7 +994,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "HabitacionesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\HabitacionesAplicacion.cs",
@@ -990,7 +1007,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "ReservasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ReservasAplicacion.cs",
@@ -1003,7 +1020,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "FacturasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\FacturasAplicacion.cs",
@@ -1016,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "Acompa\u00F1antesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\Acompa\u00F1antesAplicacion.cs",
@@ -1029,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "ClientesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
@@ -1042,7 +1059,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "IAcompa\u00F1anatesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAcompa\u00F1anatesAplicacion.cs",
@@ -1055,7 +1072,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "DatosGenerales.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\Nucleo\\DatosGenerales.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
@@ -1068,7 +1085,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "script.sql",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_repositorios\\script.sql",
               "RelativeDocumentMoniker": "lib_repositorios\\script.sql",
@@ -1079,7 +1096,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "TiposMascotasController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposMascotasController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposMascotasController.cs",
@@ -1091,7 +1108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "TiposHabitacionesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TiposHabitacionesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TiposHabitacionesController.cs",
@@ -1103,7 +1120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "TelefonosHotelesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosHotelesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosHotelesController.cs",
@@ -1115,7 +1132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "TelefonosClientesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosClientesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosClientesController.cs",
@@ -1127,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "TelefonosAcompa\u00F1antesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TelefonosAcompa\u00F1antesController.cs",
@@ -1139,7 +1156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "ReservasHabitacionesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasHabitacionesController.cs",
@@ -1151,7 +1168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "ReservasController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ReservasController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ReservasController.cs",
@@ -1163,7 +1180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "MascotasController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\MascotasController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\MascotasController.cs",
@@ -1175,7 +1192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "HotelesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HotelesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HotelesController.cs",
@@ -1187,7 +1204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "HabitacionesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\HabitacionesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\HabitacionesController.cs",
@@ -1199,7 +1216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "FasesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FasesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FasesController.cs",
@@ -1211,7 +1228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "FacturasController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\FacturasController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\FacturasController.cs",
@@ -1223,7 +1240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "EstadosHabitacionesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosHabitacionesController.cs",
@@ -1235,7 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "EstadosFacturasController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\EstadosFacturasController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\EstadosFacturasController.cs",
@@ -1247,7 +1264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ClientesController.cs",
@@ -1259,7 +1276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "Acompa\u00F1antesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",
               "RelativeDocumentMoniker": "asp_servicios\\Controllers\\Acompa\u00F1antesController.cs",

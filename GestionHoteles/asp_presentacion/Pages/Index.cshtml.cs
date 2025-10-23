@@ -14,7 +14,18 @@ namespace asp_presentacion.Pages
 
         public void OnGet()
         {
+            /*try
+            {
+                IInstrumentosPresentacion iPresentacion
+                    = new InstrumentosPresentacion();
+                var tarea = iPresentacion.Listar();
+                tarea.Wait();
+                var respuesta = tarea.Result;
+            }
+            catch (Exception ex)
+            {
 
+            }*/
         }
     }
 }

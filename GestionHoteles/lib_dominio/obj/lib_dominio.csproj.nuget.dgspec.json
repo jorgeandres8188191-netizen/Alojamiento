@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {}
+    "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
+    "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
         "projectName": "lib_dominio",
-        "projectPath": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
+        "projectPath": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\lib_dominio\\lib_dominio.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\lib_dominio\\obj\\",
         "projectStyle": "PackageReference",
