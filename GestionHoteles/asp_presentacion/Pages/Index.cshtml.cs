@@ -1,3 +1,4 @@
+using lib_dominio.Nucleo;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
@@ -5,27 +6,74 @@ namespace asp_presentacion.Pages
 {
     public class IndexModel : PageModel
     {
-        private readonly ILogger<IndexModel> _logger;
-
-        public IndexModel(ILogger<IndexModel> logger)
-        {
-            _logger = logger;
-        }
+        public bool EstaLogueado = false;
+        [BindProperty] public string? Email { get; set; }
+        [BindProperty] public string? Contrasena { get; set; }
 
         public void OnGet()
         {
-            /*try
+            var variable_session = HttpContext.Session.GetString("Usuario");
+            if (!String.IsNullOrEmpty(variable_session))
             {
-                IInstrumentosPresentacion iPresentacion
-                    = new InstrumentosPresentacion();
-                var tarea = iPresentacion.Listar();
-                tarea.Wait();
-                var respuesta = tarea.Result;
+                EstaLogueado = true;
+                return;
+            }
+        }
+
+        public void OnPostBtClean()
+        {
+            try
+
+
+            {
+                Email = string.Empty;
+                Contrasena = string.Empty;
             }
             catch (Exception ex)
             {
+                LogConversor.Log(ex, ViewData!);
+            }
+        }
 
-            }*/
+        public void OnPostBtEnter()
+        {
+            try
+            {
+                if (string.IsNullOrEmpty(Email) &&
+                    string.IsNullOrEmpty(Contrasena))
+                {
+                    OnPostBtClean();
+                    return;
+                }
+
+                if ("admin.123" != Email + "." + Contrasena)
+                {
+                    OnPostBtClean();
+                    return;
+                }
+                ViewData["Logged"] = true;
+                HttpContext.Session.SetString("Usuario", Email!);
+                EstaLogueado = true;
+                OnPostBtClean();
+            }
+            catch (Exception ex)
+            {
+                LogConversor.Log(ex, ViewData!);
+            }
+        }
+
+        public void OnPostBtClose()
+        {
+            try
+            {
+                HttpContext.Session.Clear();
+                HttpContext.Response.Redirect("/");
+                EstaLogueado = false;
+            }
+            catch (Exception ex)
+            {
+                LogConversor.Log(ex, ViewData!);
+            }
         }
     }
 }

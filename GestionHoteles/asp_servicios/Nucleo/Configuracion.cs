@@ -1,5 +1,5 @@
 ﻿using lib_dominio.Nucleo;
-namespace ut_presentacion.Nucleo
+namespace asp_servicios.Nucleo
 {
     public class Configuracion
     {

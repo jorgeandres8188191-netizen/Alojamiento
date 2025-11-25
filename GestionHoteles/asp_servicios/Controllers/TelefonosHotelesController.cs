@@ -3,7 +3,7 @@ using lib_dominio.Entidades;
 using lib_dominio.Nucleo;
 using Microsoft.AspNetCore.Mvc;
 using lib_aplicaciones.Interfaces;
-using ut_presentacion.Nucleo;
+using asp_servicios.Nucleo;
 namespace asp_servicios.Controllers
 {
     [ApiController]
