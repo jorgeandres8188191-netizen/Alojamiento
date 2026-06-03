@@ -1,0 +1,264 @@
+﻿@page
+@model asp_presentacion.Pages.Ventanas.FacturasModel
+@{
+    ViewData["Titulo"] = "";
+}
+<center>
+    <div>
+        <form method="POST"
+              enctype="multipart/form-data">
+            @Html.AntiForgeryToken()
+
+            <div align="left">
+                <h3>Información de facturas</h3>
+            </div>
+            <div align="left"
+                 class="bt_panel_buttons">
+                <input type="submit"
+                       value="Refrescar"
+                       asp-page-handler="BtRefrescar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Nuevo"
+                       asp-page-handler="BtNuevo"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion != lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Guardar"
+                       asp-page-handler="BtGuardar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" />
+                <input type="submit"
+                       value="Cancelar"
+                       asp-page-handler="BtCancelar"
+                       class="btn btn-secondary"
+                       disabled="@(Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" />
+            </div>
+
+            @if (Model.Accion != lib_dominio.Nucleo.Enumerables.Ventanas.Listas ||
+                        Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Codigo" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.FechaPago" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.SubTotal" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Total" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.IdEstadoFactura" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.IdReservaHabitacion" />
+            }
+            @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar)
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Codigo" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.FechaPago" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.SubTotal" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Total" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.IdEstadoFactura" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.IdReservaHabitacion" />
+            }
+
+            @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Editar)
+            {
+                <div class="containers_vn panel panel-default">
+                    <h3>Facturas registradas</h3>
+
+                    <div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Código
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmCodigo"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Codigo" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Fecha de pago
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmFechaPago"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.FechaPago" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                SubTotal
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmSubtotal"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.SubTotal" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                Total
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmTotal"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.Total" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                ID del estado de factura
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmIdEstadoFactura"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.IdEstadoFactura" />
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label class="col-lg-4 control-label">
+                                ID de la reserva de habitación
+                            </label>
+                            <div class="col-lg-6">
+                                <input id="nmIdReservaHabitacion"
+                                       class="cts_forms form-control"
+                                       asp-for="@Model.Actual!.IdReservaHabitacion" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (ViewData.ContainsKey("Mensaje"))
+            {
+                <input type="hidden"
+                       asp-for="@Model.Accion" />
+                @await Html.PartialAsync("../Emergentes/Mensajes.cshtml")
+                ;
+            }
+
+            @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar)
+            {
+                <div class='popup'>
+                    <div class='pp_del_inner'>
+                        <div style='width:95%'>
+                            <h2 align="left">
+                                Mensaje
+                            </h2>
+
+                            <h4 align="left">
+                                ¿Desea borrar esta factura?
+                            </h4>
+                            <h6 align="left">
+                                @Model.Actual!.Codigo,
+                                @Model.Actual!.IdReservaHabitacion
+                            </h6>
+                            <br />
+                            <br />
+                            <input type="submit"
+                                   value="Borrar"
+                                   asp-page-handler="BtBorrar"
+                                   class="btn btn-secondary" />
+                            <input type="submit"
+                                   value="Cerrar"
+                                   asp-page-handler="BtCancelar"
+                                   class="btn btn-secondary" />
+                        </div>
+                    </div>
+                </div>
+            }
+
+            @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas ||
+                        Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar)
+            {
+                /*<input id="flIdTelefonoAcompañante"
+                       class="cts_forms form-control"
+                       asp-for="@Model.Filtro!.IdTelefonoAcompañante"
+                       placeholder="IdTelefonoAcompañante" />
+                <br />*/
+
+                <div class="containers_vn panel panel-default">
+
+
+                    <table class="tb_data table table-striped table-bordered table
+    hover">
+                        <tr>
+                            <th>
+                                Código
+                            </th>
+                            <th>
+                                Fecha de pago
+                            </th>
+                            <th>
+                                SubTotal
+                            </th>
+                            <th>
+                                Total
+                            </th>
+                            <th>
+                                ID de la reserva de habitación
+                            </th>
+                            <th class="cl_hidden">
+                                IdEstadoFactura
+                            </th>
+                            <th class="cl_actions">
+                                Accion
+                            </th>
+                        </tr>
+                        @if (Model != null && Model.Lista != null)
+                        {
+                            @foreach (var elemento in Model.Lista)
+                            {
+                                <tr>
+                                    <td>
+                                        @elemento.Codigo
+                                    </td>
+                                    <td>
+                                        @elemento.FechaPago
+                                    </td>
+                                    <th>
+                                        @elemento.SubTotal
+                                    </th>
+                                    <th>
+                                        @elemento.Total
+                                    </th>
+                                    <th>
+                                        @elemento.IdReservaHabitacion
+                                    </th>
+                                    <td class="cl_hidden">
+                                        @elemento.IdEstadoFactura
+                                    </td>
+                                    <td>
+                                        <input type="submit"
+                                               value="Modicar"
+                                               asp-page-handler="BtModificar"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                        <input type="submit"
+                                               value="Borrar"
+                                               asp-page-handler="BtBorrarVal"
+                                               class="btn btn-secondary"
+                                               asp-route-data="@elemento.Id" />
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </table>
+                </div>
+            }
+        </form>
+    </div>
+</center>

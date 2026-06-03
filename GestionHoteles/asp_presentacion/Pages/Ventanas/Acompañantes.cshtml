@@ -10,7 +10,7 @@
             @Html.AntiForgeryToken() 
  
             <div align="left"> 
-                <h3>Información de Acompañantes</h3> 
+                <h3>Información de acompañantes</h3> 
             </div> 
             <div align="left" 
                  class="bt_panel_buttons"> 
@@ -38,16 +38,22 @@
  
             @if (Model.Accion != lib_dominio.Nucleo.Enumerables.Ventanas.Listas || 
             Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar) 
-            { 
-                <input type="hidden" 
-                    asp-for="@Model.Actual!.Documento" /> 
-                <input type="hidden" 
-                    asp-for="@Model.Actual!.Nombre" /> 
+            {
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Id" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Documento" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Nombre" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.Email" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.FechaNacimiento" />
+                <input type="hidden"
+                       asp-for="@Model.Actual!.IdTelefonoAcompañante" />
             } 
             @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar) 
             { 
- 
- 
                 <input type="hidden" 
                    asp-for="@Model.Actual!.Id" /> 
                 <input type="hidden" 
@@ -65,7 +71,7 @@
             @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Editar) 
             { 
                 <div class="containers_vn panel panel-default"> 
-                    <h3>Acompañante</h3> 
+                    <h3>Acompañantes registrados</h3> 
  
                     <div> 
                         <div class="form-group"> 
@@ -110,7 +116,7 @@
                         </div> 
                         <div class="form-group"> 
                             <label class="col-lg-4 control-label"> 
-                                Id del telefono 
+                                ID del telefono 
                             </label> 
                             <div class="col-lg-6"> 
                                 <input id="nmIdTelefonoAcompañante" 
@@ -139,7 +145,7 @@
                             </h2> 
  
                             <h4 align="left"> 
-                                ¿Desea borrar la entidad? 
+                                ¿Desea borrar este acompañante? 
                             </h4> 
                             <h6 align="left"> 
                                 @Model.Actual!.Documento,  
@@ -162,12 +168,12 @@
  
             @if (Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas || 
             Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Borrar) 
-            { 
-                <input id="flIdTelefonoAcompañante" 
-                   class="cts_forms form-control" 
+            {
+                /* <input id="flIdTelefonoAcompañante"
+                                   class="cts_forms form-control" 
                    asp-for="@Model.Filtro!.IdTelefonoAcompañante" 
-                   placeholder="IdTelefonoAcompañante" /> 
-                <br />
+                   placeholder="IdTelefonoAcompañante" />
+                <br /> */
  
                 <div class="containers_vn panel panel-default"> 
  
@@ -181,13 +187,13 @@ hover">
                             <th> 
                                 Nombre
                             </th> 
-                            <th class="cl_hidden"> 
+                            <th> 
                                 Email
                             </th> 
-                            <th class="cl_hidden"> 
-                                Fecha de nacimiento 
-                            </th> 
                             <th> 
+                                Fecha de nacimiento 
+                            </th>
+                            <th class="cl_hidden">
                                 IdTelefonoAcompañante 
                             </th> 
                             <th class="cl_actions"> 
@@ -205,13 +211,13 @@ hover">
                                     <td> 
                                         @elemento.Nombre 
                                     </td> 
-                                    <td class="cl_hidden"> 
+                                    <td> 
                                         @elemento.Email
                                     </td> 
-                                    <td class="cl_hidden"> 
+                                    <td> 
                                         @elemento.FechaNacimiento 
                                     </td>
-                                    <th>
+                                    <th class="cl_hidden">
                                         @elemento.IdTelefonoAcompañante
                                     </th>
                                     <td> 

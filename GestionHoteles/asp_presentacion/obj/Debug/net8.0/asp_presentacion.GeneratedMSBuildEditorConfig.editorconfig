@@ -44,6 +44,66 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQWNvbXBhw7FhbnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Clientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcQ2xpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/EstadosFacturas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcRXN0YWRvc0ZhY3R1cmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/EstadosHabitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcRXN0YWRvc0hhYml0YWNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Facturas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcRmFjdHVyYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Fases.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcRmFzZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Habitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcSGFiaXRhY2lvbmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Hoteles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcSG90ZWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Mascotas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcTWFzY290YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/Reservas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcUmVzZXJ2YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/ReservasHabitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcUmVzZXJ2YXNIYWJpdGFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/TelefonosAcompañantes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVGVsZWZvbm9zQWNvbXBhw7FhbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/TelefonosClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVGVsZWZvbm9zQ2xpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/TelefonosHoteles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVGVsZWZvbm9zSG90ZWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/TiposHabitaciones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVGlwb3NIYWJpdGFjaW9uZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/Ventanas/TiposMascotas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVudGFuYXNcVGlwb3NNYXNjb3Rhcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/Source/Repos/Alojamiento/GestionHoteles/asp_presentacion/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
