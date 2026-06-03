@@ -1,12 +1,1 @@
-{
-  "Version": 1,
-  "Hash": "riqN0RJGf3fYNBJoMfZLGaNTpKnC+SbHrZuAnS0XhbY=",
-  "Source": "asp_servicios",
-  "BasePath": "_content/asp_servicios",
-  "Mode": "Default",
-  "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
-}
+{"Version":1,"Hash":"riqN0RJGf3fYNBJoMfZLGaNTpKnC+SbHrZuAnS0XhbY=","Source":"asp_servicios","BasePath":"_content/asp_servicios","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}

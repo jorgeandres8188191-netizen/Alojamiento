@@ -1,14 +1,13 @@
-﻿using lib_dominio.Nucleo;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿
 
-namespace lib_presentaciones
+/*namespace lib_presentaciones
 {
     public class Comunicaciones
     {
         private string? URL = string.Empty,
             llave = null;
 
-        public Comunicaciones(string url = "http://localhost:5080/")
+        public Comunicaciones(string url = "http://localhost:5297/")
         {
             URL = url;
         }
@@ -16,7 +15,7 @@ namespace lib_presentaciones
         public Dictionary<string, object> ConstruirUrl(Dictionary<string, object> data, string Metodo)
         {
             data["Url"] = URL + Metodo;
-            data["UrlLlave"] = URL + "Token/Llave";
+            data["UrlLlave"] = URL + "Token/Autenticar";
             return data;
         }
 
@@ -33,7 +32,7 @@ namespace lib_presentaciones
                 var url = datos["Url"].ToString();
                 datos.Remove("Url");
                 datos.Remove("UrlLlave");
-                datos["Llave"] = llave!;
+                datos["Token"] = llave!;
                 var stringData = JsonConversor.ConvertirAString(datos);
 
                 var httpClient = new HttpClient();
@@ -97,7 +96,7 @@ namespace lib_presentaciones
 
                 resp = Replace(resp);
                 respuesta = JsonConversor.ConvertirAObjeto(resp);
-                llave = respuesta["Llave"].ToString();
+                llave = respuesta["Token"].ToString();
                 return respuesta;
             }
             catch (Exception ex)
@@ -130,30 +129,25 @@ namespace lib_presentaciones
         }
     }
 }
-
-
-/* namespace lib_presentaciones
+*/
+using lib_dominio.Nucleo;
+using static System.Runtime.InteropServices.JavaScript.JSType;
+namespace lib_presentaciones
 {
     public class Comunicaciones
     {
-        private string? Protocolo = string.Empty,
-            Host = string.Empty,
-            Servicio = string.Empty,
+        private string? URL = string.Empty,
             token = null;
 
-        public Comunicaciones(string servicio = "asp_servicios/",
-            string protocolo = "http://",
-            string host = "localhost")
+        public Comunicaciones(string url = "http://localhost:5297/")
         {
-            Protocolo = protocolo;
-            Host = host;
-            Servicio = servicio;
+            URL = url;
         }
 
         public Dictionary<string, object> ConstruirUrl(Dictionary<string, object> data, string Metodo)
         {
-            data["Url"] = Protocolo + Host + "/" + Servicio + Metodo;
-            data["UrlToken"] = Protocolo + Host + "/" + Servicio + "Token/Autenticar"; 
+            data["Url"] = URL + Metodo;
+            data["UrlToken"] = URL + "Token/Autenticar";
             return data;
         }
 
@@ -227,6 +221,7 @@ namespace lib_presentaciones
 
                 var resp = await mensaje.Content.ReadAsStringAsync();
                 httpClient.Dispose(); httpClient = null;
+
                 if (string.IsNullOrEmpty(resp))
                 {
                     respuesta.Add("Error", "lbErrorAutenticacion");
@@ -267,4 +262,4 @@ namespace lib_presentaciones
                 .Replace("null", "''");
         }
     }
-}*/
+}

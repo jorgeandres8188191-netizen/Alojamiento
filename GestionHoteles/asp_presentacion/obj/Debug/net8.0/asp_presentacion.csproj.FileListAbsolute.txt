@@ -32,10 +32,10 @@ C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\asp_pres.9948B68B.Up2Date
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\asp_presentacion.dll
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\refint\asp_presentacion.dll
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\asp_presentacion.pdb
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\asp_presentacion.genruntimeconfig.cache
 C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\ref\asp_presentacion.dll
+C:\Users\USER\Source\Repos\Alojamiento\GestionHoteles\asp_presentacion\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
