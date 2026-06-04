@@ -2,186 +2,90 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"]</title>
-    <link rel="stylesheet"
-          href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet"
-          href="~/css/site.css"
-          asp-append-version="true" />
-    <link rel="stylesheet"
-          href="~/asp_presentacion.styles.css"
-          asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/asp_presentacion.styles.css" asp-append-version="true" />
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand"
-                   asp-area=""
-                   asp-page="/Index">
-                    GestionHoteles
+        <nav class="navbar navbar-expand-sm navbar-dark ghi-navbar">
+            <div class="container-fluid px-3">
+                <a class="navbar-brand ghi-brand" asp-area="" asp-page="/Index">
+                    🏨 Gestionamiento de hoteles
                 </a>
-                <button class="navbar-toggler"
-                        type="button"
-                        data-bs-toggle="collapse"
-                        data-bs-target=".navbar-collapse"
-                        aria-controls="navbarSupportedContent"
-                        aria-expanded="false"
-                        aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon">
-
-                    </span>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarMain">
+                    <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Facturas">
-                                Facturas
-                            </a>
+                <div class="collapse navbar-collapse" id="navbarMain">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Huéspedes</a>
+                            <ul class="dropdown-menu ghi-dropdown">
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Clientes">Clientes</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/TelefonosClientes">Teléfonos de clientes</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Acompañantes">Acompañantes</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/TelefonosAcompañantes">Teléfonos de acompañantes</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Mascotas">Mascotas registradas</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/TiposMascotas">Tipos de mascotas</a></li>
+                            </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/EstadosFacturas">
-                                Estados de factura
-                            </a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Hoteles</a>
+                            <ul class="dropdown-menu ghi-dropdown">
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Hoteles">Hoteles</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/TelefonosHoteles">Teléfonos de hoteles</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Habitaciones">Habitaciones</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/TiposHabitaciones">Tipos de habitaciones</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/EstadosHabitaciones">Estados de habitaciones</a></li>
+                            </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Hoteles">
-                                Hoteles
-                            </a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Reservas</a>
+                            <ul class="dropdown-menu ghi-dropdown">
+                                <li><a class="dropdown-item" asp-page="/Ventanas/ReservasHabitaciones">Reservas activas</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Reservas">Fechas de reservas</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Fases">Fases de reservas</a></li>
+                            </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/TelefonosHoteles">
-                                Teléfonos de hoteles
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Clientes">
-                                Clientes
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/TelefonosClientes">
-                                Teléfonos de clientes
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Acompañantes">
-                                Acompañantes
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/TelefonosAcompañantes">
-                                Teléfonos de acompañantes
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Mascotas">
-                                Mascotas registradas
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/TiposMascotas">
-                                Tipos de mascotas
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Habitaciones">
-                                Habitaciones
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/TiposHabitaciones">
-                                Tipos de habitaciones
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/EstadosHabitaciones">
-                                Estados de habitaciones
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Reservas">
-                                Fechas de reservas
-                            </a>
-                        </li>                    
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/ReservasHabitaciones">
-                                Reservas activas
-                            </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark"
-                               asp-area=""
-                               asp-page="/Ventanas/Fases">
-                                Fases de reservas
-                            </a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Facturación</a>
+                            <ul class="dropdown-menu ghi-dropdown">
+                                <li><a class="dropdown-item" asp-page="/Ventanas/Facturas">Facturas</a></li>
+                                <li><a class="dropdown-item" asp-page="/Ventanas/EstadosFacturas">Estados de factura</a></li>
+                            </ul>
                         </li>
                     </ul>
+                    @if (Context.Session.GetString("Usuario") != null)
+                    {
+                        <form method="POST" asp-page="/Index" asp-page-handler="BtClose" class="d-flex align-items-center ms-3">
+                            <span class="text-white-50 me-3" style="font-size:13px">
+                                👤 @Context.Session.GetString("Usuario")
+                            </span>
+                            <button type="submit" class="btn ghi-logout-btn">
+                                Cerrar sesión
+                            </button>
+                        </form>
+                    }
                 </div>
             </div>
         </nav>
     </header>
-    <div class="container">
-        <main role="main"
-              class="pb-3">
-
-
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
+    <footer class="ghi-footer">
         <div class="container">
-            &copy; 2025 - asp_presentacion -
-            <a asp-area="" asp-page="/Privacy">
-                Privacy
-            </a>
+            &copy; 2025 - GestionHoteles - <a asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
-
-    <script src="~/lib/jquery/dist/jquery.min.js">
-
-    </script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
-
-    </script>
-    <script src="~/js/site.js"
-            asp-append-version="true">
-
-    </script>
-
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

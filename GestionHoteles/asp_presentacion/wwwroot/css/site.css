@@ -1,147 +1,239 @@
-a.navbar-brand {
-    white-space: normal;
-    text-align: center;
-    word-break: break-all;
+/* Navbar */
+.ghi-navbar {
+    background-color: #0f2d52;
+    padding: 0.5rem 1rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
 }
 
-a {
+.ghi-brand {
+    font-size: 17px;
+    font-weight: 500;
+    color: #fff !important;
 }
 
-color: #0366d6;
-.btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
-}
-
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
-}
-
-html {
+.ghi-navbar .nav-link {
+    color: #cce0f5 !important;
     font-size: 14px;
+    padding: 0.5rem 0.9rem;
+    border-radius: 6px;
 }
 
-@media (min-width: 768px) {
-    html {
-        font-size: 16px;
+    .ghi-navbar .nav-link:hover,
+    .ghi-navbar .nav-link.show {
+        background: rgba(255,255,255,0.12);
+        color: #fff !important;
     }
+
+.ghi-dropdown {
+    border-radius: 8px;
+    border: 0.5px solid #ddd;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+    padding: 4px 0;
 }
 
-.border-top {
-    border-top: 1px solid #e5e5e5;
-}
+    .ghi-dropdown .dropdown-item {
+        font-size: 13px;
+        color: #1a2d42;
+        padding: 8px 16px;
+    }
 
-.border-bottom {
-    border-bottom: 1px solid #e5e5e5;
-}
+        .ghi-dropdown .dropdown-item:hover {
+            background: #e8f1fb;
+            color: #185FA5;
+        }
 
-.box-shadow {
-    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
-}
-
-button.accept-policy {
-    font-size: 1rem;
-    line-height: inherit;
-}
-
-html {
-    position: relative;
-    min-height: 100%;
-}
-
-body {
-    margin-bottom: 60px;
-}
-
-.footer {
+/* Footer */
+.ghi-footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    white-space: nowrap;
-    line-height: 60px;
+    line-height: 50px;
+    background: #0f2d52;
+    color: #cce0f5;
+    font-size: 13px;
+    text-align: center;
 }
 
-.card_index {
-    background-color: white;
+.ghi-footer a {
+    color: #7ab8e8;
 }
 
-/* Screens --------------------- */
-.tb_data {
+/* Login */
+.ghi-login-wrapper {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ghi-login-card {
+    background: #fff;
+    border: 0.5px solid #dce3ec;
+    border-radius: 12px;
+    padding: 2.5rem 2rem;
     width: 100%;
-    border-radius: 10px;
+    max-width: 400px;
+    box-shadow: 0 4px 24px rgba(15,45,82,0.08);
 }
 
-.cts_forms {
-    width: 100%;
+.ghi-login-header {
+    text-align: center;
+    margin-bottom: 2rem;
 }
 
-.cl_actions {
-    width: 170px;
-}
-
-.cl_hidden {
-    display: normal;
-}
-
-@media (max-width: 950px) {
-    .cl_hidden {
-        display: none;
+    .ghi-login-header h2 {
+        font-size: 22px;
+        font-weight: 500;
+        color: #0f2d52;
+        margin: 0.5rem 0 0.25rem;
     }
+
+    .ghi-login-header p {
+        font-size: 13px;
+        color: #6b7a8d;
+        margin: 0;
+    }
+
+.ghi-label {
+    font-size: 13px;
+    font-weight: 500;
+    color: #1a2d42;
+    margin-bottom: 4px;
+    display: block;
 }
 
-.containers_vn {
-    height: 70vh;
+.ghi-input {
+    border: 0.5px solid #c5d0de;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 10px 12px;
+}
+
+    .ghi-input:focus {
+        border-color: #185FA5;
+        box-shadow: 0 0 0 3px rgba(24,95,165,0.12);
+        outline: none;
+    }
+
+.ghi-btn-primary {
+    background: #185FA5;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+    .ghi-btn-primary:hover {
+        background: #0f4a87;
+        color: #fff;
+    }
+
+.ghi-btn-secondary {
+    background: #f0f4f8;
+    color: #1a2d42;
+    border: 0.5px solid #c5d0de;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 10px;
+}
+
+    .ghi-btn-secondary:hover {
+        background: #dce6f0;
+    }
+
+/* Welcome */
+.ghi-welcome-wrapper {
+    min-height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ghi-welcome-card {
+    background: #fff;
+    border: 0.5px solid #dce3ec;
+    border-radius: 12px;
+    padding: 3rem 2.5rem;
+    max-width: 600px;
     width: 100%;
-    overflow: auto;
-    display: inline-block;
+    text-align: center;
+    box-shadow: 0 4px 24px rgba(15,45,82,0.08);
 }
 
-/* Popups --------------------- */
-.containers_em {
-    height: 250px;
-    width: 100%;
-    overflow: auto;
-    display: inline-block;
+.ghi-welcome-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
 }
 
-
-.popup {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    margin: auto;
-    background-color: rgba(0,0,0, 0.5);
+.ghi-welcome-card h1 {
+    font-size: 28px;
+    font-weight: 500;
+    color: #0f2d52;
+    margin-bottom: 0.25rem;
 }
 
-.pp_inner {
-    position: absolute;
-    left: 50px;
-    right: 50px;
-    top: 50px;
-    bottom: 25%;
-    min-width: 300px;
-    max-width: 500px;
-    height: 440px;
-    margin: auto;
-    background: white;
+.ghi-welcome-sub {
+    font-size: 14px;
+    color: #6b7a8d;
+    margin-bottom: 1.5rem;
 }
 
-.pp_del_inner, .pp_ms_inner {
-    position: absolute;
-    left: 50px;
-    right: 50px;
-    top: 50px;
-    bottom: 25%;
-    min-width: 300px;
-    max-width: 500px;
-    height: 200px;
-    margin: auto;
-    background: white;
+.ghi-divider {
+    border-color: #dce3ec;
+    margin: 1.5rem 0;
 }
+
+.ghi-welcome-desc {
+    font-size: 14px;
+    color: #3a4a5c;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+}
+
+.ghi-welcome-stats {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ghi-stat {
+    background: #e8f1fb;
+    color: #185FA5;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+/* Cerrar sesión navbar */
+.ghi-logout-btn {
+    background: rgba(255,255,255,0.1);
+    color: #cce0f5;
+    border: 0.5px solid rgba(255,255,255,0.25);
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 6px 14px;
+}
+
+    .ghi-logout-btn:hover {
+        background: rgba(255,255,255,0.2);
+        color: #fff;
+    }
+
+/* Botón inicio en ventanas */
+.ghi-btn-home {
+    background: #f0f4f8;
+    color: #1a2d42;
+    border: 0.5px solid #c5d0de;
+    border-radius: 6px;
+    font-size: 13px;
+    padding: 6px 12px;
+    text-decoration: none;
+}
+
+    .ghi-btn-home:hover {
+        background: #dce6f0;
+        color: #0f2d52;
+    }

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ApwuBwM0Ir4=",
+  "dgSpecHash": "AhapNq6wveo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Source\\Repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\asp_presentacion.csproj",
+  "projectFilePath": "C:\\Users\\USER\\source\\repos\\Alojamiento\\GestionHoteles\\asp_presentacion\\asp_presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
   ],

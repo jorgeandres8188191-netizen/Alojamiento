@@ -33,7 +33,8 @@
                        value="Cancelar" 
                        asp-page-handler="BtCancelar" 
                        class="btn btn-secondary" 
-                       disabled="@(Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" /> 
+                       disabled="@(Model.Accion == lib_dominio.Nucleo.Enumerables.Ventanas.Listas)" />
+                <a asp-page="/Index" class="btn ghi-btn-home ms-2">Regresar al Inicio</a>
             </div> 
  
             @if (Model.Accion != lib_dominio.Nucleo.Enumerables.Ventanas.Listas || 
