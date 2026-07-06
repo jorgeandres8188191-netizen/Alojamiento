@@ -1,0 +1,9 @@
+1. Ejecutar el script.sql en SQL Server. Este script está localizado en lib_repositorios/script.sql.
+
+2. Ajustar el secrets.json para el dispositivo local, es decir, cambiar el apartado de "Server=DESKTOP-M2TQC3M\\DEV;..." por el nombre de su servidor SQL Server, quedando como "Server=[NombreServer];...".
+
+3. Cambiar la ruta_json en donde se localiza secrets.json en su dispositivo. Esta ruta se encuentra en lib_dominio/Nucleo/DatosGenerales
+
+4. Ejecutar asp_servicios (abrir terminal en asp_servicios y usar el comando "dotnet run").
+
+5. Ejecutar la página como http.
