@@ -1,0 +1,67 @@
+services:
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-gestion
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "SantiOso2006*"
+      MSSQL_PID: "Express"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    restart: unless-stopped
+
+  sqlserver-init:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-init
+    depends_on:
+      - sqlserver
+    volumes:
+      - ./lib_repositorios:/scripts
+    entrypoint: >
+      bash -c "
+      until /opt/mssql-tools18/bin/sqlcmd -S sqlserver -U sa -P 'SantiOso2006*' -C -Q 'SELECT 1' > /dev/null 2>&1; do
+        echo 'Esperando a que SQL Server esté listo...';
+        sleep 3;
+      done;
+      echo 'SQL Server listo, ejecutando script.sql...';
+      /opt/mssql-tools18/bin/sqlcmd -S sqlserver -U sa -P 'SantiOso2006*' -C -f 1252 -i /scripts/script.sql
+      "
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: api
+    container_name: gestionhoteles-api
+    ports:
+      - "5297:5297"
+    volumes:
+      - ./secrets.json:/app/secrets.json
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=GestionHoteles;User=sa;Password=SantiOso2006*;TrustServerCertificate=True;
+    depends_on:
+      sqlserver-init:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: web
+    container_name: gestionhoteles-web
+    ports:
+      - "5000:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - API_BaseUrl=http://api:5297/
+      - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=GestionHoteles;User=sa;Password=SantiOso2006*;TrustServerCertificate=True;
+    depends_on:
+      - api
+    restart: unless-stopped
+
+volumes:
+  sqlserver_data:

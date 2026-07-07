@@ -54,13 +54,12 @@ namespace asp_servicios
             { 
                 //app.UseSwagger(); 
                 //app.UseSwaggerUI(); 
-            } 
-            app.UseHttpsRedirection(); 
-            app.UseAuthorization(); 
-            app.MapControllers(); 
-            app.Run(); 
-            app.UseRouting(); 
-            app.UseCors(); 
+            }
+            app.UseRouting();
+            app.UseCors();
+            app.UseHttpsRedirection();
+            app.UseAuthorization();
+            app.MapControllers();
         } 
     } 
 }

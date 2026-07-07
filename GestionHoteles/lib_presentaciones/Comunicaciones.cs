@@ -139,9 +139,9 @@ namespace lib_presentaciones
         private string? URL = string.Empty,
             token = null;
 
-        public Comunicaciones(string url = "http://localhost:5297/")
+        public Comunicaciones(string? url = null)
         {
-            URL = url;
+            URL = url ?? Environment.GetEnvironmentVariable("API_BaseUrl") ?? "http://localhost:5297/";
         }
 
         public Dictionary<string, object> ConstruirUrl(Dictionary<string, object> data, string Metodo)

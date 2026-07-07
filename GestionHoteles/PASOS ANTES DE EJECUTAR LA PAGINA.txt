@@ -1,9 +1,9 @@
-1. Ejecutar el script.sql en SQL Server. Este script está localizado en lib_repositorios/script.sql.
+1) Desde la raíz del proyecto (donde está el archivo docker-compose.yml), ejecuta en la terminal: docker compose up --build
 
-2. Ajustar el secrets.json para el dispositivo local, es decir, cambiar el apartado de "Server=DESKTOP-M2TQC3M\\DEV;..." por el nombre de su servidor SQL Server, quedando como "Server=[NombreServer];...".
+2) Espera unos 30/40 segundos antes de ejecutar la página.
 
-3. Cambiar la ruta_json en donde se localiza secrets.json en su dispositivo. Esta ruta se encuentra en lib_dominio/Nucleo/DatosGenerales
+2) Una vez que todo esté listo, usar en el navegador la siguiente dirección: http://localhost:5000
 
-4. Ejecutar asp_servicios (abrir terminal en asp_servicios y usar el comando "dotnet run").
-
-5. Ejecutar la página como http.
+3) Para iniciar sesión, en los campos pon lo siguiente:
+- admin (como usuario)
+- 123 (como contraseña)

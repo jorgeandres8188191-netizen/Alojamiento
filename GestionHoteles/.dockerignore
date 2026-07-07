@@ -1,0 +1,12 @@
+**/.vs
+**/bin
+**/obj
+**/TestResults
+**/.git
+**/.github
+**/*.user
+**/*.suo
+**/node_modules
+README.md
+secrets.json
+*.pdb
